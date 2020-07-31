@@ -3,144 +3,144 @@
 A list of LeetCode questions with the corresponding companies sorted by difficulty level.
 
 | **ID** | **Name** | **Difficulty.Level** | **Companies** | **Status**
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | 717 | 1-bit and 2-bit Characters |  Easy | Google | ✅ |
-| 67 | Add Binary |  Easy | Adobe, Amazon, Facebook, Google, Microsoft |
-| 258 | Add Digits |  Easy | Adobe, Apple |
-| 415 | Add Strings |  Easy | Apple, Facebook, Google, Microsoft |
-| 637 | Average of Levels in Binary Tree |  Easy | Amazon, Facebook |
-| 844 | Backspace String Compare |  Easy | Google |
-| 110 | Balanced Binary Tree |  Easy | Amazon, Google |
-| 682 | Baseball Game |  Easy | Amazon |
-| 121 | Best Time to Buy and Sell Stock |  Easy | Facebook |
-| 122 | Best Time to Buy and Sell Stock II |  Easy | Alibaba |
-| 595 | Big Countries |  Easy | Adobe, Amazon, Google |
-| 704 | Binary Search |  Easy | Google |
-| 107 | Binary Tree Level Order Traversal II |  Easy | Microsoft |
-| 257 | Binary Tree Paths |  Easy | Amazon, Facebook, Microsoft |
-| 859 | Buddy Strings |  Easy | Google |
-| 70 | Climbing Stairs |  Easy | Adobe, Alibaba, Amazon, Apple, Facebook, Microsoft |
-| 270 | Closest Binary Search Tree Value |  Easy | Google |
-| 175 | Combine Two Tables |  Easy | Adobe, Amazon, Apple, Facebook, Google |
-| 427 | Construct Quad Tree |  Easy | Apple |
-| 217 | Contains Duplicate |  Easy | Amazon |
-| 219 | Contains Duplicate II |  Easy | Adobe, Google |
-| 405 | Convert a Number to Hexadecimal |  Easy | Facebook |
-| 538 | Convert BST to Greater Tree |  Easy | Amazon |
-| 108 | Convert Sorted Array to Binary Search Tree |  Easy | Adobe, Apple |
-| 38 | Count and Say |  Easy | Adobe, Amazon, Google, Microsoft |
-| 696 | Count Binary Substrings |  Easy | Adobe |
-| 204 | Count Primes |  Easy | Adobe, Amazon, Apple, Google, Microsoft |
-| 183 | Customers Who Never Order |  Easy | Amazon |
-| 237 | Delete Node in a Linked List |  Easy | Apple |
-| 706 | Design HashMap |  Easy | Adobe, Amazon, Apple, Microsoft |
-| 707 | Design Linked List |  Easy | Amazon |
-| 543 | Diameter of Binary Tree |  Easy | Adobe |
-| 690 | Employee Importance |  Easy | Google |
-| 181 | Employees Earning More Than Their Managers |  Easy | Amazon, Facebook |
-| 171 | Excel Sheet Column Number |  Easy | Akuna Capital |
-| 168 | Excel Sheet Column Title |  Easy | Akuna Capital |
-| 172 | Factorial Trailing Zeroes |  Easy | Adobe, Microsoft |
-| 509 | Fibonacci Number |  Easy | Adobe, Amazon, Microsoft |
-| 438 | Find All Anagrams in a String |  Easy | Amazon, Facebook, Google |
-| 448 | Find All Numbers Disappeared in an Array |  Easy | Apple |
-| 760 | Find Anagram Mappings |  Easy | Google |
-| 724 | Find Pivot Index |  Easy | Amazon, Apple, Facebook, Google, Microsoft |
-| 997 | Find the Town Judge |  Easy | Amazon |
-| 278 | First Bad Version |  Easy | Facebook, Google |
-| 387 | First Unique Character in a String |  Easy | Amazon, Apple, Facebook, Google, Microsoft |
-| 412 | Fizz Buzz |  Easy | Apple |
-| 832 | Flipping an Image |  Easy | Google |
-| 733 | Flood Fill |  Easy | Amazon, Google |
-| 597 | Friend Requests I: Overall Acceptance Rate |  Easy | Facebook |
-| 824 | Goat Latin |  Easy | Facebook |
-| 374 | Google - LeetCodeGuess Number Higher or Lower |  Easy | Google |
-| 933 | Google - LeetCodeNumber of Recent Calls |  Easy | Google |
-| 572 | Google - LeetCodeSubtree of Another Tree |  Easy | Google |
-| 202 | Happy Number |  Easy | Amazon, Apple, Facebook |
-| 475 | Heaters |  Easy | Google |
-| 198 | House Robber |  Easy | Adobe, Amazon, Apple, Facebook, Google, Microsoft |
-| 661 | Image Smoother |  Easy | Apple |
-| 232 | Implement Queue using Stacks |  Easy | Apple, Microsoft |
-| 225 | Implement Stack using Queues |  Easy | Microsoft |
-| 28 | Implement strStr |  Easy | Adobe, Amazon, Apple, Facebook, Google, Microsoft |
-| 897 | Increasing Order Search Tree |  Easy | Facebook |
-| 349 | Intersection of Two Arrays |  Easy | Amazon, Apple, Facebook, Google, Microsoft |
-| 350 | Intersection of Two Arrays II |  Easy | Amazon |
-| 160 | Intersection of Two Linked Lists |  Easy | Amazon |
-| 226 | Invert Binary Tree |  Easy | Adobe, Amazon, Facebook |
-| 751 | IP to CIDR |  Easy | Airbnb |
-| 463 | Island Perimeter |  Easy | Amazon, Apple, Facebook, Google |
-| 205 | Isomorphic Strings |  Easy | Amazon, Google |
-| 771 | Jewels and Stones |  Easy | Adobe, Alibaba, Amazon, Apple, Google |
-| 532 | K-diff Pairs in an Array |  Easy | Amazon |
-| 703 | Kth Largest Element in a Stream |  Easy | Amazon, Facebook, Google |
-| 872 | Leaf-Similar Trees |  Easy | Facebook, Google |
-| 860 | Lemonade Change |  Easy | Amazon |
-| 58 | Length of Last Word |  Easy | Adobe |
-| 784 | Letter Case Permutation |  Easy | Microsoft |
-| 482 | License Key Formatting |  Easy | Amazon, Google |
-| 141 | Linked List Cycle |  Easy | Adobe, Akuna Capital, Alibaba, Amazon, Apple, Facebook, Google, Microsoft |
-| 359 | Logger Rate Limiter |  Easy | Facebook, Google |
-| 14 | Longest Common Prefix |  Easy | Adobe, Apple, Google, Microsoft |
-| 674 | Longest Continuous Increasing Subsequence |  Easy | Google |
-| 409 | Longest Palindrome |  Easy | Amazon |
-| 687 | Longest Univalue Path |  Easy | Amazon |
-| 720 | Longest Word in Dictionary |  Easy | Amazon, Google |
-| 235 | Lowest Common Ancestor of a Binary Search Tree |  Easy | Adobe |
-| 840 | Magic Squares In Grid |  Easy | Google |
-| 169 | Majority Element |  Easy | Adobe, Amazon, Apple, Google, Microsoft |
-| 485 | Max Consecutive Ones |  Easy | Amazon |
-| 716 | Max Stack |  Easy | Facebook |
-| 849 | Maximize Distance to Closest Person |  Easy | Google |
-| 104 | Maximum Depth of Binary Tree |  Easy | Apple, Facebook, Google |
-| 559 | Maximum Depth of N-ary Tree |  Easy | Amazon, Google |
-| 628 | Maximum Product of Three Numbers |  Easy | Amazon, Facebook |
-| 53 | Maximum Subarray |  Easy | Adobe, Alibaba, Amazon, Apple, Facebook, Microsoft |
-| 252 | Meeting Rooms |  Easy | Amazon, Facebook |
-| 88 | Merge Sorted Array |  Easy | Adobe, Amazon, Facebook, Microsoft |
-| 617 | Merge Two Binary Trees |  Easy | Amazon |
-| 21 | Merge Two Sorted Lists |  Easy | Airbnb, Alibaba |
-| 746 | Min Cost Climbing Stairs |  Easy | Amazon |
-| 155 | Min Stack |  Easy | Adobe, Amazon, Apple, Facebook, Google, Microsoft |
-| 111 | Minimum Depth of Binary Tree |  Easy | Adobe, Amazon, Microsoft |
-| 783 | Minimum Distance Between BST Nodes |  Easy | Amazon |
-| 599 | Minimum Index Sum of Two Lists |  Easy | Amazon |
-| 268 | Missing Number |  Easy | Adobe, Amazon, Apple |
-| 896 | Monotonic Array |  Easy | Facebook |
-| 819 | Most Common Word |  Easy | Amazon, Google, Microsoft |
-| 283 | Move Zeroes |  Easy | Adobe, Apple, Facebook, Google, Microsoft |
-| 346 | Moving Average from Data Stream |  Easy | Google |
-| 429 | N-ary Tree Level Order Traversal |  Easy | Google |
-| 339 | Nested List Weight Sum |  Easy | Amazon |
-| 496 | Next Greater Element I |  Easy | Amazon, Google |
-| 665 | Non-decreasing Array |  Easy | Google |
-| 400 | Nth Digit |  Easy | Adobe, Google |
-| 476 | Number Complement |  Easy | Google |
-| 191 | Number of 1 Bits |  Easy | Amazon, Apple, Google, Microsoft |
-| 447 | Number of Boomerangs |  Easy | Amazon, Google |
-| 806 | Number of Lines To Write String |  Easy | Google |
-| 1013 | Pairs of Songs With Total Durations Divisible by 60 |  Easy | Amazon |
-| 234 | Palindrome Linked List |  Easy | Amazon, Google |
-| 9 | Palindrome Number |  Easy | Adobe, Alibaba, Amazon, Apple, Facebook, Google, Microsoft |
-| 266 | Palindrome Permutation |  Easy | Amazon, Facebook, Google, Microsoft |
-| 118 | Pascal&#39;s Triangle |  Easy | Amazon, Facebook, Google, Microsoft |
-| 119 | Pascal&#39;s Triangle II |  Easy | Adobe, Amazon, Google |
-| 112 | Path Sum |  Easy | Amazon |
-| 437 | Path Sum III |  Easy | Amazon, Facebook |
-| 852 | Peak Index in a Mountain Array |  Easy | Amazon, Google |
-| 507 | Perfect Number |  Easy | Amazon |
-| 66 | Plus One |  Easy | Amazon, Facebook, Google, Microsoft |
-| 830 | Positions of Large Groups |  Easy | Adobe, Google |
-| 326 | Power of Three |  Easy | Apple |
-| 231 | Power of Two |  Easy | Amazon |
-| 157 | Read N Characters Given Read4 |  Easy | Facebook, Google |
-| 836 | Rectangle Overlap |  Easy | Adobe, Amazon, Microsoft |
-| 26 | Remove Duplicates from Sorted Array |  Easy | Amazon, Apple, Facebook, Google, Microsoft |
-| 83 | Remove Duplicates from Sorted List |  Easy | Apple, Google |
-| 27 | Remove Element |  Easy | Amazon, Google |
-| 203 | Remove Linked List Elements |  Easy | Adobe, Amazon, Microsoft |
-| 937 | Reorder Log Files |  Easy | Amazon |
+| 67 | Add Binary |  Easy | Adobe, Amazon, Facebook, Google, Microsoft |  |
+| 258 | Add Digits |  Easy | Adobe, Apple |  |
+| 415 | Add Strings |  Easy | Apple, Facebook, Google, Microsoft | |
+| 637 | Average of Levels in Binary Tree |  Easy | Amazon, Facebook |  |
+| 844 | Backspace String Compare |  Easy | Google |  |
+| 110 | Balanced Binary Tree |  Easy | Amazon, Google |  |
+| 682 | Baseball Game |  Easy | Amazon |  |
+| 121 | Best Time to Buy and Sell Stock |  Easy | Facebook |  |
+| 122 | Best Time to Buy and Sell Stock II |  Easy | Alibaba |  |
+| 595 | Big Countries |  Easy | Adobe, Amazon, Google |  |
+| 704 | Binary Search |  Easy | Google |  |
+| 107 | Binary Tree Level Order Traversal II |  Easy | Microsoft |  |
+| 257 | Binary Tree Paths |  Easy | Amazon, Facebook, Microsoft |  |
+| 859 | Buddy Strings |  Easy | Google |  |
+| 70 | Climbing Stairs |  Easy | Adobe, Alibaba, Amazon, Apple, Facebook, Microsoft |  |
+| 270 | Closest Binary Search Tree Value |  Easy | Google |  |
+| 175 | Combine Two Tables |  Easy | Adobe, Amazon, Apple, Facebook, Google |  |
+| 427 | Construct Quad Tree |  Easy | Apple |  |
+| 217 | Contains Duplicate |  Easy | Amazon |  |
+| 219 | Contains Duplicate II |  Easy | Adobe, Google |  |
+| 405 | Convert a Number to Hexadecimal |  Easy | Facebook |  |
+| 538 | Convert BST to Greater Tree |  Easy | Amazon |  |
+| 108 | Convert Sorted Array to Binary Search Tree |  Easy | Adobe, Apple |  |
+| 38 | Count and Say |  Easy | Adobe, Amazon, Google, Microsoft |  |
+| 696 | Count Binary Substrings |  Easy | Adobe |  |
+| 204 | Count Primes |  Easy | Adobe, Amazon, Apple, Google, Microsoft |  |
+| 183 | Customers Who Never Order |  Easy | Amazon |  |
+| 237 | Delete Node in a Linked List |  Easy | Apple |  |
+| 706 | Design HashMap |  Easy | Adobe, Amazon, Apple, Microsoft |  |
+| 707 | Design Linked List |  Easy | Amazon |  |
+| 543 | Diameter of Binary Tree |  Easy | Adobe |  |
+| 690 | Employee Importance |  Easy | Google |  |
+| 181 | Employees Earning More Than Their Managers |  Easy | Amazon, Facebook |  |
+| 171 | Excel Sheet Column Number |  Easy | Akuna Capital |  |
+| 168 | Excel Sheet Column Title |  Easy | Akuna Capital |  |
+| 172 | Factorial Trailing Zeroes |  Easy | Adobe, Microsoft |  |
+| 509 | Fibonacci Number |  Easy | Adobe, Amazon, Microsoft |  |
+| 438 | Find All Anagrams in a String |  Easy | Amazon, Facebook, Google |  |
+| 448 | Find All Numbers Disappeared in an Array |  Easy | Apple |  |
+| 760 | Find Anagram Mappings |  Easy | Google |  |
+| 724 | Find Pivot Index |  Easy | Amazon, Apple, Facebook, Google, Microsoft |  |
+| 997 | Find the Town Judge |  Easy | Amazon |  |
+| 278 | First Bad Version |  Easy | Facebook, Google |  |
+| 387 | First Unique Character in a String |  Easy | Amazon, Apple, Facebook, Google, Microsoft |  |
+| 412 | Fizz Buzz |  Easy | Apple |  |
+| 832 | Flipping an Image |  Easy | Google |  |
+| 733 | Flood Fill |  Easy | Amazon, Google |  |
+| 597 | Friend Requests I: Overall Acceptance Rate |  Easy | Facebook |  |
+| 824 | Goat Latin |  Easy | Facebook |  |
+| 374 | Google - LeetCodeGuess Number Higher or Lower |  Easy | Google |  |
+| 933 | Google - LeetCodeNumber of Recent Calls |  Easy | Google |  |
+| 572 | Google - LeetCodeSubtree of Another Tree |  Easy | Google |  |
+| 202 | Happy Number |  Easy | Amazon, Apple, Facebook |  |
+| 475 | Heaters |  Easy | Google |  |
+| 198 | House Robber |  Easy | Adobe, Amazon, Apple, Facebook, Google, Microsoft |  |
+| 661 | Image Smoother |  Easy | Apple |  |
+| 232 | Implement Queue using Stacks |  Easy | Apple, Microsoft |  |
+| 225 | Implement Stack using Queues |  Easy | Microsoft |  |
+| 28 | Implement strStr |  Easy | Adobe, Amazon, Apple, Facebook, Google, Microsoft |  |
+| 897 | Increasing Order Search Tree |  Easy | Facebook |  |
+| 349 | Intersection of Two Arrays |  Easy | Amazon, Apple, Facebook, Google, Microsoft |  |
+| 350 | Intersection of Two Arrays II |  Easy | Amazon |  |
+| 160 | Intersection of Two Linked Lists |  Easy | Amazon |  |
+| 226 | Invert Binary Tree |  Easy | Adobe, Amazon, Facebook |  |
+| 751 | IP to CIDR |  Easy | Airbnb |  |
+| 463 | Island Perimeter |  Easy | Amazon, Apple, Facebook, Google |  |
+| 205 | Isomorphic Strings |  Easy | Amazon, Google |  |
+| 771 | Jewels and Stones |  Easy | Adobe, Alibaba, Amazon, Apple, Google |  |
+| 532 | K-diff Pairs in an Array |  Easy | Amazon |  |
+| 703 | Kth Largest Element in a Stream |  Easy | Amazon, Facebook, Google |  |
+| 872 | Leaf-Similar Trees |  Easy | Facebook, Google |  |
+| 860 | Lemonade Change |  Easy | Amazon |  |
+| 58 | Length of Last Word |  Easy | Adobe |  |
+| 784 | Letter Case Permutation |  Easy | Microsoft |  |
+| 482 | License Key Formatting |  Easy | Amazon, Google |  |
+| 141 | Linked List Cycle |  Easy | Adobe, Akuna Capital, Alibaba, Amazon, Apple, Facebook, Google, Microsoft |  |
+| 359 | Logger Rate Limiter |  Easy | Facebook, Google |  |
+| 14 | Longest Common Prefix |  Easy | Adobe, Apple, Google, Microsoft |  |
+| 674 | Longest Continuous Increasing Subsequence |  Easy | Google |  |
+| 409 | Longest Palindrome |  Easy | Amazon |  |
+| 687 | Longest Univalue Path |  Easy | Amazon |  |
+| 720 | Longest Word in Dictionary |  Easy | Amazon, Google |  |
+| 235 | Lowest Common Ancestor of a Binary Search Tree |  Easy | Adobe |  |
+| 840 | Magic Squares In Grid |  Easy | Google |  |
+| 169 | Majority Element |  Easy | Adobe, Amazon, Apple, Google, Microsoft |  |
+| 485 | Max Consecutive Ones |  Easy | Amazon |  |
+| 716 | Max Stack |  Easy | Facebook |  |
+| 849 | Maximize Distance to Closest Person |  Easy | Google |  |
+| 104 | Maximum Depth of Binary Tree |  Easy | Apple, Facebook, Google |  |
+| 559 | Maximum Depth of N-ary Tree |  Easy | Amazon, Google |  |
+| 628 | Maximum Product of Three Numbers |  Easy | Amazon, Facebook |  |
+| 53 | Maximum Subarray |  Easy | Adobe, Alibaba, Amazon, Apple, Facebook, Microsoft |  |
+| 252 | Meeting Rooms |  Easy | Amazon, Facebook |  |
+| 88 | Merge Sorted Array |  Easy | Adobe, Amazon, Facebook, Microsoft |  |
+| 617 | Merge Two Binary Trees |  Easy | Amazon |  |
+| 21 | Merge Two Sorted Lists |  Easy | Airbnb, Alibaba |  |
+| 746 | Min Cost Climbing Stairs |  Easy | Amazon |  |
+| 155 | Min Stack |  Easy | Adobe, Amazon, Apple, Facebook, Google, Microsoft |  |
+| 111 | Minimum Depth of Binary Tree |  Easy | Adobe, Amazon, Microsoft |  |
+| 783 | Minimum Distance Between BST Nodes |  Easy | Amazon |  |
+| 599 | Minimum Index Sum of Two Lists |  Easy | Amazon |  |
+| 268 | Missing Number |  Easy | Adobe, Amazon, Apple |  |
+| 896 | Monotonic Array |  Easy | Facebook |  |
+| 819 | Most Common Word |  Easy | Amazon, Google, Microsoft |  |
+| 283 | Move Zeroes |  Easy | Adobe, Apple, Facebook, Google, Microsoft |  |
+| 346 | Moving Average from Data Stream |  Easy | Google |  |
+| 429 | N-ary Tree Level Order Traversal |  Easy | Google |  |
+| 339 | Nested List Weight Sum |  Easy | Amazon |  |
+| 496 | Next Greater Element I |  Easy | Amazon, Google |  |
+| 665 | Non-decreasing Array |  Easy | Google |  |
+| 400 | Nth Digit |  Easy | Adobe, Google |  |
+| 476 | Number Complement |  Easy | Google |  |
+| 191 | Number of 1 Bits |  Easy | Amazon, Apple, Google, Microsoft |  |
+| 447 | Number of Boomerangs |  Easy | Amazon, Google |  |
+| 806 | Number of Lines To Write String |  Easy | Google |  |
+| 1013 | Pairs of Songs With Total Durations Divisible by 60 |  Easy | Amazon |  |
+| 234 | Palindrome Linked List |  Easy | Amazon, Google |  |
+| 9 | Palindrome Number |  Easy | Adobe, Alibaba, Amazon, Apple, Facebook, Google, Microsoft |  |
+| 266 | Palindrome Permutation |  Easy | Amazon, Facebook, Google, Microsoft |  |
+| 118 | Pascal&#39;s Triangle |  Easy | Amazon, Facebook, Google, Microsoft |  |
+| 119 | Pascal&#39;s Triangle II |  Easy | Adobe, Amazon, Google |  |
+| 112 | Path Sum |  Easy | Amazon |  |
+| 437 | Path Sum III |  Easy | Amazon, Facebook |  |
+| 852 | Peak Index in a Mountain Array |  Easy | Amazon, Google |  |
+| 507 | Perfect Number |  Easy | Amazon |  |
+| 66 | Plus One |  Easy | Amazon, Facebook, Google, Microsoft |  |
+| 830 | Positions of Large Groups |  Easy | Adobe, Google |  |
+| 326 | Power of Three |  Easy | Apple |  |
+| 231 | Power of Two |  Easy | Amazon |  |
+| 157 | Read N Characters Given Read4 |  Easy | Facebook, Google |  |
+| 836 | Rectangle Overlap |  Easy | Adobe, Amazon, Microsoft |  |
+| 26 | Remove Duplicates from Sorted Array |  Easy | Amazon, Apple, Facebook, Google, Microsoft |  |
+| 83 | Remove Duplicates from Sorted List |  Easy | Apple, Google |  |
+| 27 | Remove Element |  Easy | Amazon, Google |  |
+| 203 | Remove Linked List Elements |  Easy | Adobe, Amazon, Microsoft |  |
+| 937 | Reorder Log Files |  Easy | Amazon |  |
 | 686 | Repeated String Match |  Easy | Facebook, Google |
 | 190 | Reverse Bits |  Easy | Amazon, Apple |
 | 7 | Reverse Integer |  Easy | Adobe, Alibaba, Amazon, Facebook, Google, Microsoft |

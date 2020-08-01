@@ -12,7 +12,7 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 | 844 | Backspace String Compare |  Easy | Google |  |
 | 110 | Balanced Binary Tree |  Easy | Amazon, Google |  |
 | 682 | Baseball Game |  Easy | Amazon |  |
-| 121 | Best Time to Buy and Sell Stock |  Easy | Facebook |  |
+| 121 | Best Time to Buy and Sell Stock |  Easy | Facebook | ✅ |
 | 122 | Best Time to Buy and Sell Stock II |  Easy | Alibaba |  |
 | 595 | Big Countries |  Easy | Adobe, Amazon, Google |  |
 | 704 | Binary Search |  Easy | Google |  |
@@ -57,7 +57,7 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 | 374 | Google - LeetCodeGuess Number Higher or Lower |  Easy | Google |  |
 | 933 | Google - LeetCodeNumber of Recent Calls |  Easy | Google |  |
 | 572 | Google - LeetCodeSubtree of Another Tree |  Easy | Google |  |
-| 202 | Happy Number |  Easy | Amazon, Apple, Facebook |  |
+| 202 | Happy Number |  Easy | Amazon, Apple, Facebook | ✅ |
 | 475 | Heaters |  Easy | Google |  |
 | 198 | House Robber |  Easy | Adobe, Amazon, Apple, Facebook, Google, Microsoft |  |
 | 661 | Image Smoother |  Easy | Apple |  |
@@ -96,20 +96,20 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 | 104 | Maximum Depth of Binary Tree |  Easy | Apple, Facebook, Google |  |
 | 559 | Maximum Depth of N-ary Tree |  Easy | Amazon, Google |  |
 | 628 | Maximum Product of Three Numbers |  Easy | Amazon, Facebook |  |
-| 53 | Maximum Subarray |  Easy | Adobe, Alibaba, Amazon, Apple, Facebook, Microsoft |  |
+| 53 | Maximum Subarray |  Easy | Adobe, Alibaba, Amazon, Apple, Facebook, Microsoft | ✅ |
 | 252 | Meeting Rooms |  Easy | Amazon, Facebook |  |
 | 88 | Merge Sorted Array |  Easy | Adobe, Amazon, Facebook, Microsoft |  |
 | 617 | Merge Two Binary Trees |  Easy | Amazon |  |
 | 21 | Merge Two Sorted Lists |  Easy | Airbnb, Alibaba |  |
 | 746 | Min Cost Climbing Stairs |  Easy | Amazon |  |
-| 155 | Min Stack |  Easy | Adobe, Amazon, Apple, Facebook, Google, Microsoft |  |
+| 155 | Min Stack |  Easy | Adobe, Amazon, Apple, Facebook, Google, Microsoft | ✅ |
 | 111 | Minimum Depth of Binary Tree |  Easy | Adobe, Amazon, Microsoft |  |
 | 783 | Minimum Distance Between BST Nodes |  Easy | Amazon |  |
 | 599 | Minimum Index Sum of Two Lists |  Easy | Amazon |  |
 | 268 | Missing Number |  Easy | Adobe, Amazon, Apple |  |
 | 896 | Monotonic Array |  Easy | Facebook |  |
 | 819 | Most Common Word |  Easy | Amazon, Google, Microsoft |  |
-| 283 | Move Zeroes |  Easy | Adobe, Apple, Facebook, Google, Microsoft |  |
+| 283 | Move Zeroes |  Easy | Adobe, Apple, Facebook, Google, Microsoft | ✅ |
 | 346 | Moving Average from Data Stream |  Easy | Google |  |
 | 429 | N-ary Tree Level Order Traversal |  Easy | Google |  |
 | 339 | Nested List Weight Sum |  Easy | Amazon |  |
@@ -163,7 +163,7 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 | 821 | Shortest Distance to a Character |  Easy | Google |
 | 243 | Shortest Word Distance |  Easy | Amazon, Google |
 | 800 | Similar RGB Color |  Easy | Google |
-| 136 | Single Number |  Easy | Amazon |
+| 136 | Single Number |  Easy | Amazon | ✅ |
 | 905 | Sort Array By Parity |  Easy | Adobe, Amazon, Google, Microsoft |
 | 69 | Sqrt(x) |  Easy | Amazon, Apple, Facebook, Google, Microsoft |
 | 977 | Squares of a Sorted Array |  Easy | Adobe |
